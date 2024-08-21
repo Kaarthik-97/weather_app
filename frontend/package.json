@@ -1,0 +1,7 @@
+{
+  "proxy":"http://localhost:5000",
+  "dependencies": {
+    "latest": "^0.2.0",
+    "prune": "^0.0.2"
+  }
+}
